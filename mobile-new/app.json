@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cojones-timeline",
+    "slug": "cojones-timeline",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cojones-timeline"
+}
